@@ -1,0 +1,1500 @@
+{
+  "title": "H1: Section 1 - Digital Strategy Overview",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "H2: Subsection 1.1 - Vision and Goals",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 1.2 - Key Actions",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 1.1.1 - Timeline",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 1.1.2 - Resources",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 1.1.3 - Metrics",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 2 - Digital Strategy Overview",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 2.1 - Vision and Goals",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 2.2 - Key Actions",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 2.1.1 - Timeline",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 2.1.2 - Resources",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 2.1.3 - Metrics",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 3 - Digital Strategy Overview",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 3.1 - Vision and Goals",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 3.2 - Key Actions",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 3.1.1 - Timeline",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 3.1.2 - Resources",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 3.1.3 - Metrics",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 4 - Digital Strategy Overview",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 4.1 - Vision and Goals",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 4.2 - Key Actions",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 4.1.1 - Timeline",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 4.1.2 - Resources",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 4.1.3 - Metrics",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 5 - Digital Strategy Overview",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 5.1 - Vision and Goals",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 5.2 - Key Actions",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 5.1.1 - Timeline",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 5.1.2 - Resources",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 5.1.3 - Metrics",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 6 - Digital Strategy Overview",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 6.1 - Vision and Goals",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 6.2 - Key Actions",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 6.1.1 - Timeline",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 6.1.2 - Resources",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 6.1.3 - Metrics",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 7 - Digital Strategy Overview",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 7.1 - Vision and Goals",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 7.2 - Key Actions",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 7.1.1 - Timeline",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 7.1.2 - Resources",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 7.1.3 - Metrics",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 8 - Digital Strategy Overview",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 8.1 - Vision and Goals",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 8.2 - Key Actions",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 8.1.1 - Timeline",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 8.1.2 - Resources",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 8.1.3 - Metrics",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 9 - Digital Strategy Overview",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 9.1 - Vision and Goals",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 9.2 - Key Actions",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 9.1.1 - Timeline",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 9.1.2 - Resources",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 9.1.3 - Metrics",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 10 - Digital Strategy Overview",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 10.1 - Vision and Goals",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 10.2 - Key Actions",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 10.1.1 - Timeline",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 10.1.2 - Resources",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 10.1.3 - Metrics",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 11 - Digital Strategy Overview",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 11.1 - Vision and Goals",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 11.2 - Key Actions",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 11.1.1 - Timeline",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 11.1.2 - Resources",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 11.1.3 - Metrics",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 12 - Digital Strategy Overview",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 12.1 - Vision and Goals",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 12.2 - Key Actions",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 12.1.1 - Timeline",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 12.1.2 - Resources",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 12.1.3 - Metrics",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 13 - Digital Strategy Overview",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 13.1 - Vision and Goals",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 13.2 - Key Actions",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 13.1.1 - Timeline",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 13.1.2 - Resources",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 13.1.3 - Metrics",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 14 - Digital Strategy Overview",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 14.1 - Vision and Goals",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 14.2 - Key Actions",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 14.1.1 - Timeline",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 14.1.2 - Resources",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 14.1.3 - Metrics",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 15 - Digital Strategy Overview",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 15.1 - Vision and Goals",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 15.2 - Key Actions",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 15.1.1 - Timeline",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 15.1.2 - Resources",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 15.1.3 - Metrics",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 16 - Digital Strategy Overview",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 16.1 - Vision and Goals",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 16.2 - Key Actions",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 16.1.1 - Timeline",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 16.1.2 - Resources",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 16.1.3 - Metrics",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 17 - Digital Strategy Overview",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 17.1 - Vision and Goals",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 17.2 - Key Actions",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 17.1.1 - Timeline",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 17.1.2 - Resources",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 17.1.3 - Metrics",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 18 - Digital Strategy Overview",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 18.1 - Vision and Goals",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 18.2 - Key Actions",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 18.1.1 - Timeline",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 18.1.2 - Resources",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 18.1.3 - Metrics",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 19 - Digital Strategy Overview",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 19.1 - Vision and Goals",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 19.2 - Key Actions",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 19.1.1 - Timeline",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 19.1.2 - Resources",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 19.1.3 - Metrics",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 20 - Digital Strategy Overview",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 20.1 - Vision and Goals",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 20.2 - Key Actions",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 20.1.1 - Timeline",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 20.1.2 - Resources",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 20.1.3 - Metrics",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 21 - Digital Strategy Overview",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 21.1 - Vision and Goals",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 21.2 - Key Actions",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 21.1.1 - Timeline",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 21.1.2 - Resources",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 21.1.3 - Metrics",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 22 - Digital Strategy Overview",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 22.1 - Vision and Goals",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 22.2 - Key Actions",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 22.1.1 - Timeline",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 22.1.2 - Resources",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 22.1.3 - Metrics",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 23 - Digital Strategy Overview",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 23.1 - Vision and Goals",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 23.2 - Key Actions",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 23.1.1 - Timeline",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 23.1.2 - Resources",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 23.1.3 - Metrics",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 24 - Digital Strategy Overview",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 24.1 - Vision and Goals",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 24.2 - Key Actions",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 24.1.1 - Timeline",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 24.1.2 - Resources",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 24.1.3 - Metrics",
+      "page": 24
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 25 - Digital Strategy Overview",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 25.1 - Vision and Goals",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 25.2 - Key Actions",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 25.1.1 - Timeline",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 25.1.2 - Resources",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 25.1.3 - Metrics",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 26 - Digital Strategy Overview",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 26.1 - Vision and Goals",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 26.2 - Key Actions",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 26.1.1 - Timeline",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 26.1.2 - Resources",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 26.1.3 - Metrics",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 27 - Digital Strategy Overview",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 27.1 - Vision and Goals",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 27.2 - Key Actions",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 27.1.1 - Timeline",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 27.1.2 - Resources",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 27.1.3 - Metrics",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 28 - Digital Strategy Overview",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 28.1 - Vision and Goals",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 28.2 - Key Actions",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 28.1.1 - Timeline",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 28.1.2 - Resources",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 28.1.3 - Metrics",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 29 - Digital Strategy Overview",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 29.1 - Vision and Goals",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 29.2 - Key Actions",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 29.1.1 - Timeline",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 29.1.2 - Resources",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 29.1.3 - Metrics",
+      "page": 29
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 30 - Digital Strategy Overview",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 30.1 - Vision and Goals",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 30.2 - Key Actions",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 30.1.1 - Timeline",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 30.1.2 - Resources",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 30.1.3 - Metrics",
+      "page": 30
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 31 - Digital Strategy Overview",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 31.1 - Vision and Goals",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 31.2 - Key Actions",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 31.1.1 - Timeline",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 31.1.2 - Resources",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 31.1.3 - Metrics",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 32 - Digital Strategy Overview",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 32.1 - Vision and Goals",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 32.2 - Key Actions",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 32.1.1 - Timeline",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 32.1.2 - Resources",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 32.1.3 - Metrics",
+      "page": 32
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 33 - Digital Strategy Overview",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 33.1 - Vision and Goals",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 33.2 - Key Actions",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 33.1.1 - Timeline",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 33.1.2 - Resources",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 33.1.3 - Metrics",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 34 - Digital Strategy Overview",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 34.1 - Vision and Goals",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 34.2 - Key Actions",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 34.1.1 - Timeline",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 34.1.2 - Resources",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 34.1.3 - Metrics",
+      "page": 34
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 35 - Digital Strategy Overview",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 35.1 - Vision and Goals",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 35.2 - Key Actions",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 35.1.1 - Timeline",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 35.1.2 - Resources",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 35.1.3 - Metrics",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 36 - Digital Strategy Overview",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 36.1 - Vision and Goals",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 36.2 - Key Actions",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 36.1.1 - Timeline",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 36.1.2 - Resources",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 36.1.3 - Metrics",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 37 - Digital Strategy Overview",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 37.1 - Vision and Goals",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 37.2 - Key Actions",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 37.1.1 - Timeline",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 37.1.2 - Resources",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 37.1.3 - Metrics",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 38 - Digital Strategy Overview",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 38.1 - Vision and Goals",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 38.2 - Key Actions",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 38.1.1 - Timeline",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 38.1.2 - Resources",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 38.1.3 - Metrics",
+      "page": 38
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 39 - Digital Strategy Overview",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 39.1 - Vision and Goals",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 39.2 - Key Actions",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 39.1.1 - Timeline",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 39.1.2 - Resources",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 39.1.3 - Metrics",
+      "page": 39
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 40 - Digital Strategy Overview",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 40.1 - Vision and Goals",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 40.2 - Key Actions",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 40.1.1 - Timeline",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 40.1.2 - Resources",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 40.1.3 - Metrics",
+      "page": 40
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 41 - Digital Strategy Overview",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 41.1 - Vision and Goals",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 41.2 - Key Actions",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 41.1.1 - Timeline",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 41.1.2 - Resources",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 41.1.3 - Metrics",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 42 - Digital Strategy Overview",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 42.1 - Vision and Goals",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 42.2 - Key Actions",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 42.1.1 - Timeline",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 42.1.2 - Resources",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 42.1.3 - Metrics",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 43 - Digital Strategy Overview",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 43.1 - Vision and Goals",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 43.2 - Key Actions",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 43.1.1 - Timeline",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 43.1.2 - Resources",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 43.1.3 - Metrics",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 44 - Digital Strategy Overview",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 44.1 - Vision and Goals",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 44.2 - Key Actions",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 44.1.1 - Timeline",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 44.1.2 - Resources",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 44.1.3 - Metrics",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 45 - Digital Strategy Overview",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 45.1 - Vision and Goals",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 45.2 - Key Actions",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 45.1.1 - Timeline",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 45.1.2 - Resources",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 45.1.3 - Metrics",
+      "page": 45
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 46 - Digital Strategy Overview",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 46.1 - Vision and Goals",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 46.2 - Key Actions",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 46.1.1 - Timeline",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 46.1.2 - Resources",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 46.1.3 - Metrics",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 47 - Digital Strategy Overview",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 47.1 - Vision and Goals",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 47.2 - Key Actions",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 47.1.1 - Timeline",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 47.1.2 - Resources",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 47.1.3 - Metrics",
+      "page": 47
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 48 - Digital Strategy Overview",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 48.1 - Vision and Goals",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 48.2 - Key Actions",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 48.1.1 - Timeline",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 48.1.2 - Resources",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 48.1.3 - Metrics",
+      "page": 48
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 49 - Digital Strategy Overview",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 49.1 - Vision and Goals",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 49.2 - Key Actions",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 49.1.1 - Timeline",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 49.1.2 - Resources",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 49.1.3 - Metrics",
+      "page": 49
+    },
+    {
+      "level": "H1",
+      "text": "H1: Section 50 - Digital Strategy Overview",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 50.1 - Vision and Goals",
+      "page": 50
+    },
+    {
+      "level": "H2",
+      "text": "H2: Subsection 50.2 - Key Actions",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 50.1.1 - Timeline",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 50.1.2 - Resources",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "H3: Detail 50.1.3 - Metrics",
+      "page": 50
+    }
+  ]
+}
