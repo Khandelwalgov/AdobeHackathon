@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T18:15:06.255459"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "View Activity Report",
+      "importance_rank": 1,
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Set the trust level of a certificate",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Any CCd parties (listed by email value)",
+      "importance_rank": 3,
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Add an arrow, or shape",
+      "importance_rank": 4,
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Image file settings",
+      "importance_rank": 5,
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Persistent chat history",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Modify images in a PDF",
+      "importance_rank": 7,
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Copy and Paste Multiple Images or Files",
+      "importance_rank": 8,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "•  Share - Shares the Bulk Send along with its status with the user email you provide.  Shared web forms can be viewed on the Manage page, but do not allow editing.",
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Note: Allow Embedded high privilege JavaScript™ and Privileged system operations only  for sources that you trust and work closely with. For example, use these options for  your employer or service provider.  6. Select OK.",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "•  Actions menu (blue square) - This section contains all of the actions you can take  regarding the Bulk Send (parent template). Click the See More link at the bottom right  of the section to see all values:",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Note: To specify the line width, color, and other properties before you draw, select the  desired tool, and press Ctrl+E to open the properties toolbar. Set the desired options in the  Properties toolbar.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Specifies the prefix added to the image filenames if you have several versions of the same  image file. Filenames assigned to images have the format filename_img_#.",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Access a document where you previously used the AI Assistant to generate responses to your  queries. The document opens as before, with the full chat history and any associated follow- up questions.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "•   Arrange objects: To move an image or object in front of or behind other elements. You  can push an item forward or back on just one level. Alternatively, you can send it to the front  or back of the stacking order of elements on the page.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Note: To deselect an image and start over, click outside it.    2. Right-click the image and select copy. Once done, you can paste it to a new file or a",
+      "page_number": 1
+    }
+  ]
+}
