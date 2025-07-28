@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T18:22:24.379567"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Marseille: The Oldest City in France",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Music and Dance",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "pack warm clothing for cooler evenings. Consider packing thermal underwear for",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": " Le Bistrot Gourmand Canes  The Cool Place to Eat",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Key Information",
+      "importance_rank": 5,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "From the Sea to the Land to the Palace La Vaigues Alain Ducote",
+      "importance_rank": 6,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "The Ultimate Hiking Trip 5 Tips for Long Distance Adventures",
+      "importance_rank": 7,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Food and Wine The Ultimate Delight",
+      "importance_rank": 8,
+      "page_number": 6
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "•  Boat Trip to the Calanques: Take a boat trip to the Calanques, a series of stunning  limestone cliﬀs and coves along the coast.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "The South of France is a region steeped in traditions and cultural heritage that reflect its  diverse history and influences. From the Provençal language and literature to the vibrant  festivals and culinary delights, the region oﬀers a rich tapestry of customs and practices that  continue to thrive today. Whether you're exploring the picturesque villages, participating in  local celebrations, or savoring the flavors of Provençal cuisine, you'll find that the traditions  and culture of the South of France provide a deep and enriching experience. Use this guide to  immerse yourself in the unique cultural landscape of this beautiful region and create lasting  memories of your journey.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "•  Additional Tips: Winter is mild compared to other regions, but it's still important to  pack warm clothing for cooler evenings. Consider packing thermal underwear for  extra warmth.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "•  Le Bistrot Gourmand (Cannes): This bistro oﬀers a variety of traditional French dishes  at aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a  casual meal.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "•  Farm-to-Table Dining: Many restaurants in the South of France embrace the farm-to- table philosophy, sourcing their ingredients from local farms and producers. Look for  restaurants that highlight seasonal, locally grown produce and sustainably raised  meats. Dining at a farm-to-table restaurant is a wonderful way to support local  agriculture and enjoy the freshest ingredients available.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "•  La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the  luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the  land. The serene setting and culinary excellence make it a top choice for fine dining.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "•  Additional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a map  and compass or GPS device. Pack energy bars or snacks for long hikes.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "•  Le Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made  with fresh, local ingredients. The elegant setting and exceptional service make it a top  choice for fine dining.",
+      "page_number": 6
+    }
+  ]
+}

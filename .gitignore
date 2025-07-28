@@ -1,2 +1,5 @@
-Round 1A\__pycache__
-Round 1B\__pycache__
+Round 1A/__pycache__/
+Round 1B/__pycache__/
+venv/
+Round1ABERTMINILM/__pycache__/
+Round 1B/models/

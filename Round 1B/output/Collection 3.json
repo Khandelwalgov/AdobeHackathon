@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T18:16:01.621428"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Bratkartoffeln (Fried Potatoes)",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 cup cooked chicken breast, diced",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Five Ways to Make Chicken and Peas",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Cheese Noodles with Chard and Lemon",
+      "importance_rank": 4,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "1/4 cup cooked sausage or bacon",
+      "importance_rank": 5,
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Veggie Stir-Fry",
+      "importance_rank": 6,
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "1 cup cooked chicken breast, diced",
+      "importance_rank": 7,
+      "page_number": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Mango Salad",
+      "importance_rank": 8,
+      "page_number": 13
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Boil potatoes until tender, then slice.  o Cook diced bacon until crispy, then remove and set aside.  o Sauté sliced potatoes and diced onion in butter until golden.  o Stir in bacon, salt, and pepper.  o Serve warm.    Briam",
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  In a bowl, combine the chicken, avocado, tomatoes, and red onion.  •  Drizzle with olive oil and lemon juice.  •  Season with salt and pepper, then toss to combine.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "tender.  o Stir in chopped cilantro.  o Tear flatbread into pieces and place in a serving dish.  o Pour chicken and sauce over the bread and serve warm.    Rice and Peas",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Dice tomatoes, onion, and cucumber.  o Mix vegetables with chopped cilantro, lemon juice, and salt.  o Serve chilled.    Käsespätzle (Cheese Noodles)",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•  In a bowl, whisk the eggs and cook them in a skillet over medium heat.  •  Add cheese, sausage or bacon, bell pepper, and onion to the eggs.  •  Cook until the eggs are set and the vegetables are tender.  •  Place the egg mixture in the center of the tortilla and roll it up.  •  Serve with salsa.",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  In a bowl, combine the shrimp, avocado, tomatoes, and red onion.  •  Drizzle with olive oil and lemon juice.  •  Season with salt and pepper, then toss to combine.",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  Lay a slice of turkey flat and spread with hummus.  •  Place a slice of cheese and a few spinach leaves on top.  •  Roll up tightly and repeat with remaining ingredients.",
+      "page_number": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  In a bowl, combine the chicken, mango, red onion, and cilantro.  •  Drizzle with olive oil and lime juice.  •  Season with salt and pepper, then toss to combine.",
+      "page_number": 13
+    }
+  ]
+}
